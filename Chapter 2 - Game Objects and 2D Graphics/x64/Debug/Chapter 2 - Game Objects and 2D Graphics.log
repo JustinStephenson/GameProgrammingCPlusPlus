@@ -1,0 +1,10 @@
+﻿  Actor.cpp
+  Game.cpp
+D:\Projects_Dependencies\SDL2\include\SDL_video.h(90,37): warning C4099: 'SDL_Window': type name first seen using 'class' now seen using 'struct'
+D:\Projects\C++_Practice\Game_Practice\Game_Programming_Book\Chapter 2 - Game Objects and 2D Graphics\Game.h(5): message : see declaration of 'SDL_Window'
+D:\Projects_Dependencies\SDL2\include\SDL_render.h(131,20): warning C4099: 'SDL_Renderer': type name first seen using 'class' now seen using 'struct'
+D:\Projects\C++_Practice\Game_Practice\Game_Programming_Book\Chapter 2 - Game Objects and 2D Graphics\Game.h(6): message : see declaration of 'SDL_Renderer'
+D:\Projects_Dependencies\SDL2\include\SDL_render.h(132,41): warning C4099: 'SDL_Renderer': type name first seen using 'class' now seen using 'struct'
+D:\Projects_Dependencies\SDL2\include\SDL_render.h(131): message : see declaration of 'SDL_Renderer'
+  Generating Code...
+  Chapter 2 - Game Objects and 2D Graphics.vcxproj -> D:\Projects\C++_Practice\Game_Practice\Game_Programming_Book\x64\Debug\Chapter 2 - Game Objects and 2D Graphics.exe

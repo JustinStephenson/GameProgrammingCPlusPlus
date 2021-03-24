@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Game_Programming_Book.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  Game_Programming_Book.vcxproj -> D:\Projects\C++_Practice\Game_Practice\Game_Programming_Book\x64\Debug\Chapter 1 - Game Overview.exe
